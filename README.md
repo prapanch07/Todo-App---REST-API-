@@ -1,16 +1,26 @@
 # todoapp
 
-"A new Flutter project."
+  todoapp is a simple Android application built with Flutter using REST API
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Download Link :- https://drive.google.com/file/d/1e7IIOFMEfNah-kHRyCHZEgR_Vzr5Bc2K/view?usp=sharing
+### API used := https://api.nstack.in/#/
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+users can,
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Create new  todo list.
+- Read todo list.
+- Update existing todo.
+- Delete todo.
+
+## Technologies Used
+
+The todoapp is built using the following technologies:
+
+- flutter
+- dart
+- swagger
+
+
